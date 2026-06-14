@@ -8,8 +8,8 @@ I build the model, the product, and the business around it.<br>
 Right now that means <a href="https://neurvane.com">Neurvane Focus</a> and DistroAI — Skopje, North Macedonia.
 
 [![Website](https://img.shields.io/badge/neurvane.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurvane.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hristijan-zlatevski/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](hzlatevskii@gmail.com)
 
 </div>
 
@@ -25,7 +25,7 @@ Right now that means <a href="https://neurvane.com">Neurvane Focus</a> and Distr
 
 **[TwinCar](https://github.com/Hristijan-kiko/twincar)** — vehicle make-and-model recognition; my Data Science Academy capstone and the cohort's winning project.
 
-- ConvNeXt-V2-Base backbone, with a YOLO crop step that cleans inputs before classification
+- EfficientNetB3 backbone, with a YOLO crop step that cleans inputs before classification
 - 76% top-1 / 95.2% top-5 on clean data, stress-tested across a 3-tier robustness evaluation
 - Experiment tracking in Weights & Biases, built across 120+ commits
 
