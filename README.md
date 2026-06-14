@@ -26,7 +26,7 @@ Right now that means <a href="https://neurvane.com">Neurvane Focus</a> and Distr
 **[TwinCar](https://github.com/Hristijan-kiko/twincar)** — vehicle make-and-model recognition; my Data Science Academy capstone and the cohort's winning project.
 
 - EfficientNetB3 backbone, with a YOLO crop step that cleans inputs before classification
-- 76% top-1 / 95.2% top-5 on clean data, stress-tested across a 3-tier robustness evaluation
+- 78.64% top-1 / 95.2% top-5 on clean data, stress-tested across a 3-tier robustness evaluation
 - Experiment tracking in Weights & Biases, built across 120+ commits
 
 ## Tech
